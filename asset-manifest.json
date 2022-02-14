@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nikulanton/alfa-test/static/css/main.a7ba45c1.css",
+    "main.js": "/nikulanton/alfa-test/static/js/main.0fa23db7.js",
+    "static/js/787.5e7b9986.chunk.js": "/nikulanton/alfa-test/static/js/787.5e7b9986.chunk.js",
+    "index.html": "/nikulanton/alfa-test/index.html",
+    "main.a7ba45c1.css.map": "/nikulanton/alfa-test/static/css/main.a7ba45c1.css.map",
+    "main.0fa23db7.js.map": "/nikulanton/alfa-test/static/js/main.0fa23db7.js.map",
+    "787.5e7b9986.chunk.js.map": "/nikulanton/alfa-test/static/js/787.5e7b9986.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ba45c1.css",
+    "static/js/main.0fa23db7.js"
+  ]
+}
